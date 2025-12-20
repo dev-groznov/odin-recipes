@@ -1,0 +1,41 @@
+html {
+    font-family: "Lucida Console", "Courier New", monospace
+}
+
+h1 {
+    text-align: center;
+    background-color: lightcoral;
+    padding: 10px;
+    border: 8px solid palevioletred;
+    margin: 10px 30px
+}
+
+.description {
+    background-color: lightskyblue;
+    width: 160px;
+    padding: 5px;
+    margin: 16px 24px;
+}
+
+.ingredients {
+    background-color: lightgreen;
+    width: 160px;
+    padding: 5px;
+    margin: 16px 24px;
+}
+
+.recipe {
+    background-color: lightsalmon;
+    width: 90px;
+    padding: 5px;
+    margin: 16px 24px;
+}
+
+.home {
+    text-align:center;
+    background-color: lightcyan;
+    width: 50px;
+    padding: 5px;
+    border: 2px solid teal;
+    margin: 16px 24px;
+}
